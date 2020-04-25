@@ -90,7 +90,7 @@ class PostController extends Controller
     {
         $post = Post::join('users', 'author_id', '=', 'users.id')
                     ->find($id);
-
+        
         if (!$post){
             return redirect()->route('post.index')->withErrors('Пост не найден!');
         }
