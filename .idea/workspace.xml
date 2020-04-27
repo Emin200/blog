@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9772763d-695f-45c1-b973-055df9a02d64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" />
-    </list>
+    <list default="true" id="9772763d-695f-45c1-b973-055df9a02d64" name="Default" comment="" />
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -418,12 +415,12 @@
       <workItem from="1587736574299" duration="3006000" />
       <workItem from="1587739594670" duration="11314000" />
       <workItem from="1587822319207" duration="6390000" />
-      <workItem from="1587995944229" duration="1233000" />
+      <workItem from="1587995944229" duration="1792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42592000" />
+    <option name="totallyTimeSpent" value="43151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
